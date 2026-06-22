@@ -1,0 +1,6 @@
+{
+  "name": "Ocean Drive Syndicate",
+  "description": "Exclusive members portal, digital reservation desk, and interactive community loyalty deck for the Ocean Drive Campania coastal countdown event.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
